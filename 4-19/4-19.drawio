@@ -101,6 +101,9 @@
                 <mxCell id="24" value="Cout2s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="462.5" y="540" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="36" value="Samuel Webster&lt;br&gt;April 2023&lt;br&gt;2bit full adder" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="240" width="110" height="60" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
